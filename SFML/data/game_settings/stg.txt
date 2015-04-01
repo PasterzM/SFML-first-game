@@ -1,0 +1,3 @@
+rozdzielczosc: 800x 600;
+glosnosc: 10;
+brightness: 10;
